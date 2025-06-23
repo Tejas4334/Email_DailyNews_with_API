@@ -1,0 +1,1 @@
+# This project accesss a newsAPI that send news email every_day
