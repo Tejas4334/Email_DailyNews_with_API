@@ -2,7 +2,7 @@ import smtplib,ssl,os
 import requests
 from pyexpat.errors import messages
 
-# getting URL for API
+# getting URL for API 
 topic = "tesla"
 url = f"https://newsapi.org/v2/everything?q={topic}&"\
       "from=2025-05-23&"\
