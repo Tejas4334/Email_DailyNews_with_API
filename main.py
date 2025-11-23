@@ -6,7 +6,7 @@ from pyexpat.errors import messages
 topic = "tesla"
 url = f"https://newsapi.org/v2/everything?q={topic}&"\
       "from=2025-05-23&"\
-      "sortBy=publishedAt&apiKey=9c62d6ae47f44d84865fa6a47524463d&"\
+      "sortBy=publishedAt&apiKey=<your api_key>&"\
       "language=en"
 
 # Make a Request
